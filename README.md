@@ -1,6 +1,5 @@
-# CareerMatch-AI-Agent_AAI_510# CareerMatch AI
+# CareerMatch-AI-Agent_AAI_510# 
 
-# CareerMatch AI
 ### AI-Powered Career Recommendation and Workforce Intelligence Agent
 
 ## Project Overview
